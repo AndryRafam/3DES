@@ -7,7 +7,7 @@ Like DES, the TDES structure is based on Feistel scheme.
 # How TDES works ?
 - Encryption
 
-Lets:
+Let:
 - S be a block of 64 bits size clear message
 - E(k,S) be an encrypting function with the key k
 - D(k,S) a decrypting function with the key k
@@ -19,7 +19,7 @@ TDES(S)= E(k3,D(k2,E(k1,S))). (Encrypt with k1; Decrypt with k2 and Encrypt agai
 
 Decryption is the reverse operation:
 
-Lets C the ciphertext obtained through the TDES operation.
+Let C be the ciphertext obtained through the TDES operation.
 
 S = D(k1,E(k2,D(k3,C))). (Decrypt with k3; Encrypt with k2 and Decrypt with k1).
 
