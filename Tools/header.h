@@ -19,6 +19,7 @@ public:
     std::string Encrypt_Tool(std::string plaintext, std::vector<std::string> RKB, std::vector<std::string> RKH);
     std::string Triple_DES_Encrypt(std::string plaintext); // 3 DES encryption algorithm
     std::string Padding(std::string bloc); // Padding function
+    void Func(std::string plaintext); // Function for main program
 };
 
 #endif
