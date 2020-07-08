@@ -126,5 +126,4 @@ std::string DES::Triple_DES_Encrypt(std::string plaintext){
     std::string cipher_final = Encrypt_Tool(cipher_2,RKB_3,RKH_3);
     return cipher_final;
 }
-DES::~DES(void){}
 
