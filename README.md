@@ -38,8 +38,7 @@ S = D(k1,E(k2,D(k3,C))). (Decrypt with k3; Encrypt with k2 and Decrypt with k1).
 
 [ Clear Text ] -> Hello Github. How are you today ?
 
-[ Encrypted Text ] -> 34AF9AC9A6D3A431 53D873168FCEAB91 A8112E4682CF932D 50F2C84247D4C2F5 8626E8CEC2271296
-
+[ Encrypted Text ] -> 62B57D1F11BBF649  E9B0E9319A5C8913  AFB32ABFCD934CDC  19C59BBE2F0031F5  6491CE82E1F20012
 
 # WARNING !!!
 
