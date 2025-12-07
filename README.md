@@ -1,3 +1,7 @@
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+
 # TDES (Triple Data Encryption Standard)
 
 TDES is a symmetric key-block cipher which applies DES (Data Encryption Standard) three times with three different keys (k1, k2, k3).
